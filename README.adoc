@@ -12,7 +12,7 @@ You'll create an application that provides the time of day and then build it wit
 
 == What you'll need
 
- - About 15 minutes
+ - About 20 minutes
  - A favorite text editor or IDE
  - {jdk}[JDK 8] or later
 
