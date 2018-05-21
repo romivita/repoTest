@@ -50,16 +50,10 @@ public class EnemyShipTesting {
 		 * 
 		 * System.out.print("What type of ship? (U or R)");
 		 * 
-		 * if (userInput.hasNextLine()){
-		 * enemyShipOption = userInput.nextLine();
-		 * }
-		 * if (enemyShipOption == "U"){
-		 * theEnemy = new UFOEnemyShip();
-		 * } else if (enemyShipOption == "R"){
-		 * theEnemy = new RocketEnemyShip();
-		 * } else {
-		 * theEnemy = new BigUFOEnemyShip();
-		 * }
+		 * if (userInput.hasNextLine()){ enemyShipOption = userInput.nextLine(); } if
+		 * (enemyShipOption == "U"){ theEnemy = new UFOEnemyShip(); } else if
+		 * (enemyShipOption == "R"){ theEnemy = new RocketEnemyShip(); } else { theEnemy
+		 * = new BigUFOEnemyShip(); }
 		 * 
 		 * doStuffEnemy(theEnemy);
 		 * 
